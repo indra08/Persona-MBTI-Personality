@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+drawable bg_psych_wave
+drawable ic_psychology
+font plusjakarta_sans_bold
+font plusjakarta_sans_regular
+string app_name
+style Theme.Personality
