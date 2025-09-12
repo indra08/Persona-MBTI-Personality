@@ -1,6 +1,19 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application android:label="Kepribadian" android:theme="@style/Theme.Material3.DayNight.NoActionBar" android:icon="@drawable/ic_psychology">
+    <application
+        android:label="Persona"
+        android:theme="@style/Theme.Material3.DayNight.NoActionBar"
+        android:icon="@mipmap/ic_launcher"
+        >
 
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
 
         <activity android:name=".MainActivity" android:exported="true">
 

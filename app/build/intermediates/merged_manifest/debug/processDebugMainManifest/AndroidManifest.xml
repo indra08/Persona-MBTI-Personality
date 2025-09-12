@@ -18,10 +18,20 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:extractNativeLibs="false"
-        android:icon="@drawable/ic_psychology"
-        android:label="Kepribadian"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Persona"
         android:testOnly="true"
         android:theme="@style/Theme.Material3.DayNight.NoActionBar" >
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.insantech.personalitytest.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
         <activity
             android:name="com.insantech.personalitytest.MainActivity"
             android:exported="true" >

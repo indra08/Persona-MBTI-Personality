@@ -1,8 +1,32 @@
 R_DEF: Internal format may change without notice
 local
+color ic_launcher_background
 drawable bg_psych_wave
+drawable ic_mbti
+drawable ic_mbti_clean
 drawable ic_psychology
+drawable ill_default
+drawable ill_enfj
+drawable ill_enfp
+drawable ill_entj
+drawable ill_entp
+drawable ill_esfj
+drawable ill_esfp
+drawable ill_estj
+drawable ill_estp
+drawable ill_infj
+drawable ill_infp
+drawable ill_intj
+drawable ill_intp
+drawable ill_isfj
+drawable ill_isfp
+drawable ill_istj
+drawable ill_istp
 font plusjakarta_sans_bold
 font plusjakarta_sans_regular
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
 string app_name
 style Theme.Personality
+xml file_paths

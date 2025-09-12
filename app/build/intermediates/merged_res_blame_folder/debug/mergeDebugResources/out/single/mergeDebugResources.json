@@ -1,18 +1,230 @@
 [
     {
-        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_bg_psych_wave.xml.flat",
-        "source": "com.insantech.personalitytest.app-main-68:/drawable/bg_psych_wave.xml"
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ic_mbti_clean.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ic_mbti_clean.png"
     },
     {
-        "merged": "com.insantech.personalitytest.app-debug-66:/font_plusjakarta_sans_regular.ttf.flat",
-        "source": "com.insantech.personalitytest.app-main-68:/font/plusjakarta_sans_regular.ttf"
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ic_psychology.xml.flat",
-        "source": "com.insantech.personalitytest.app-main-68:/drawable/ic_psychology.xml"
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_bg_psych_wave.xml.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/bg_psych_wave.xml"
     },
     {
-        "merged": "com.insantech.personalitytest.app-debug-66:/font_plusjakarta_sans_bold.ttf.flat",
-        "source": "com.insantech.personalitytest.app-main-68:/font/plusjakarta_sans_bold.ttf"
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_estp.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_estp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/font_plusjakarta_sans_bold.ttf.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/font/plusjakarta_sans_bold.ttf"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ic_psychology.xml.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ic_psychology.xml"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_default.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_default.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_entp.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_entp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_istp.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_istp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_isfj.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_isfj.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_intp.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_intp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_esfj.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_esfj.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_esfj.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_esfj.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_intp.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_intp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/font_plusjakarta_sans_regular.ttf.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/font/plusjakarta_sans_regular.ttf"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_infj.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_infj.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_intj.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_intj.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_isfj.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_isfj.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_istp.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_istp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/xml_file_paths.xml.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_enfj.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_enfj.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_entp.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_entp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_enfp.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_enfp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_infp.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_infp.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_estj.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_estj.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_enfp.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_enfp.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_infp.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_infp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_intj.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_intj.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_esfp.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_esfp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_enfj.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_enfj.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_estj.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_estj.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ic_mbti.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ic_mbti.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_entj.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_entj.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_estp.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_estp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_infj.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_infj.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_isfp.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_isfp.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_esfp.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_esfp.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_istj.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_istj.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_entj.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_entj.png"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-debug-66:/drawable_ill_istj.png.flat",
+        "source": "/Users/santikaindra/.gradle/daemon/8.9/com.insantech.personalitytest.app-main-68:/drawable/ill_istj.png"
+    },
+    {
+        "merged": "com.insantech.personalitytest.app-debug-66:/drawable_ill_isfp.png.flat",
+        "source": "com.insantech.personalitytest.app-main-68:/drawable/ill_isfp.png"
     }
 ]

@@ -1,9 +1,20 @@
 -- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:12:13-47
+	android:authorities
+		INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:10:13-60
+	android:exported
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:9:13-62
 manifest
-ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:1:1-12:12
-INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:1:1-12:12
-INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:1:1-12:12
-INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:1:1-12:12
+ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:1:1-25:12
 MERGED from [androidx.navigation:navigation-common:2.8.0] /Users/santikaindra/.gradle/caches/8.9/transforms/dd39f480a7753d6156a6622c207102fa/transformed/navigation-common-2.8.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.8.0] /Users/santikaindra/.gradle/caches/8.9/transforms/d8ffb7bbcd740b1ea06abe8f95269d2b/transformed/navigation-runtime-2.8.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.8.0] /Users/santikaindra/.gradle/caches/8.9/transforms/6b44b89e34a590fb9b9a98edeafc1606/transformed/navigation-common-ktx-2.8.0/AndroidManifest.xml:2:1-7:12
@@ -96,8 +107,8 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/santikaindra/.gradle/
 	xmlns:android
 		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:1:11-69
 application
-ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:2:5-11:19
-INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:2:5-11:19
+ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:2:5-24:19
+INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:2:5-24:19
 MERGED from [com.google.android.material:material:1.12.0] /Users/santikaindra/.gradle/caches/8.9/transforms/46d5522eee8a469ec483d039fa467802/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /Users/santikaindra/.gradle/caches/8.9/transforms/46d5522eee8a469ec483d039fa467802/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/santikaindra/.gradle/caches/8.9/transforms/47a30b4a7b5b3d5ff906d1ab7f55ce8f/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
@@ -121,27 +132,33 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/santikaindra/.gradle
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/santikaindra/.gradle/caches/8.9/transforms/a90cd2412397833128a16ac7e6977cc2/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:2:18-45
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:3:9-32
 	android:icon
-		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:2:106-144
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:5:9-43
 	android:theme
-		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:2:46-105
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:4:9-68
 activity#com.insantech.personalitytest.MainActivity
-ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:5:9-10:20
+ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:18:9-23:20
 	android:exported
-		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:5:48-71
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:18:48-71
 	android:name
-		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:5:19-47
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:18:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:7:13-9:29
+ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:20:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:7:28-80
+ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:20:28-80
 	android:name
-		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:7:36-77
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:20:36-77
 category#android.intent.category.LAUNCHER
-ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:8:17-77
+ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:8:27-74
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:13:13-15:54
+	android:resource
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:15:17-51
+	android:name
+		ADDED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:14:17-67
 uses-sdk
 INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml

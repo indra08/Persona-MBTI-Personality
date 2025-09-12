@@ -17,7 +17,7 @@ import androidx.compose.ui.unit.dp
 import com.insantech.personalitytest.R
 
 @Composable
-fun HomeScreen(onStart: () -> Unit, onAbout: () -> Unit) {
+fun HomeScreen(onStart: () -> Unit, onAbout: () -> Unit, onLastResult: () -> Unit) {
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -26,7 +26,7 @@ fun HomeScreen(onStart: () -> Unit, onAbout: () -> Unit) {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Spacer(Modifier.height(12.dp))
-        Image(painterResource(R.drawable.ic_psychology), contentDescription = null, modifier = Modifier.size(128.dp))
+        Image(painterResource(id = R.drawable.ic_mbti_clean), contentDescription = null, modifier = Modifier.size(268.dp))
         Text(
             text = "Persona (MBTI)",
             style = MaterialTheme.typography.titleLarge,
@@ -37,12 +37,21 @@ fun HomeScreen(onStart: () -> Unit, onAbout: () -> Unit) {
             style = MaterialTheme.typography.bodyLarge,
             textAlign = TextAlign.Center
         )
+
         Button(onClick = onStart, modifier = Modifier.fillMaxWidth()) { Text("Mulai Tes") }
+
         OutlinedButton(
             onClick = onAbout,
             modifier = Modifier.fillMaxWidth()
         ) {
             Text("Tentang")
+        }
+
+        OutlinedButton(
+            onClick = onLastResult,
+            modifier = Modifier.fillMaxWidth()
+        ) {
+            Text("Lihat Hasil Terakhir")
         }
 
         Spacer(Modifier.height(16.dp))
