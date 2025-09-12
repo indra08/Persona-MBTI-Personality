@@ -41,17 +41,17 @@ fun HomeScreen(onStart: () -> Unit, onAbout: () -> Unit, onLastResult: () -> Uni
         Button(onClick = onStart, modifier = Modifier.fillMaxWidth()) { Text("Mulai Tes") }
 
         OutlinedButton(
-            onClick = onAbout,
-            modifier = Modifier.fillMaxWidth()
-        ) {
-            Text("Tentang")
-        }
-
-        OutlinedButton(
             onClick = onLastResult,
             modifier = Modifier.fillMaxWidth()
         ) {
             Text("Lihat Hasil Terakhir")
+        }
+
+        OutlinedButton(
+            onClick = onAbout,
+            modifier = Modifier.fillMaxWidth()
+        ) {
+            Text("Tentang")
         }
 
         Spacer(Modifier.height(16.dp))
