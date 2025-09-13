@@ -1,0 +1,135 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.insantech.personalitytest"
+4    android:versionCode="2"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="35" />
+10
+11    <permission
+11-->[androidx.core:core:1.13.1] /Users/santikaindra/.gradle/caches/8.9/transforms/a90cd2412397833128a16ac7e6977cc2/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+12        android:name="com.insantech.personalitytest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+12-->[androidx.core:core:1.13.1] /Users/santikaindra/.gradle/caches/8.9/transforms/a90cd2412397833128a16ac7e6977cc2/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+13        android:protectionLevel="signature" />
+13-->[androidx.core:core:1.13.1] /Users/santikaindra/.gradle/caches/8.9/transforms/a90cd2412397833128a16ac7e6977cc2/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+14
+15    <uses-permission android:name="com.insantech.personalitytest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+15-->[androidx.core:core:1.13.1] /Users/santikaindra/.gradle/caches/8.9/transforms/a90cd2412397833128a16ac7e6977cc2/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+15-->[androidx.core:core:1.13.1] /Users/santikaindra/.gradle/caches/8.9/transforms/a90cd2412397833128a16ac7e6977cc2/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+16
+17    <application
+17-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:2:5-24:19
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.13.1] /Users/santikaindra/.gradle/caches/8.9/transforms/a90cd2412397833128a16ac7e6977cc2/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+19        android:extractNativeLibs="false"
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:5:9-43
+21        android:label="Persona"
+21-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:3:9-32
+22        android:theme="@style/Theme.Material3.DayNight.NoActionBar" >
+22-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:4:9-68
+23        <provider
+24            android:name="androidx.core.content.FileProvider"
+24-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:9:13-62
+25            android:authorities="com.insantech.personalitytest.provider"
+25-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:10:13-60
+26            android:exported="false"
+26-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:11:13-37
+27            android:grantUriPermissions="true" >
+27-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:12:13-47
+28            <meta-data
+28-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:13:13-15:54
+29                android:name="android.support.FILE_PROVIDER_PATHS"
+29-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:14:17-67
+30                android:resource="@xml/file_paths" />
+30-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:15:17-51
+31        </provider>
+32
+33        <activity
+33-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:18:9-23:20
+34            android:name="com.insantech.personalitytest.MainActivity"
+34-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:18:19-47
+35            android:exported="true" >
+35-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:18:48-71
+36            <intent-filter>
+36-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:20:13-22:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:20:28-80
+37-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:20:36-77
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:21:17-77
+39-->/Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/src/main/AndroidManifest.xml:21:27-74
+40            </intent-filter>
+41        </activity>
+42
+43        <provider
+43-->[androidx.emoji2:emoji2:1.3.0] /Users/santikaindra/.gradle/caches/8.9/transforms/d33267f643c71ff77015c9251b52811c/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+44            android:name="androidx.startup.InitializationProvider"
+44-->[androidx.emoji2:emoji2:1.3.0] /Users/santikaindra/.gradle/caches/8.9/transforms/d33267f643c71ff77015c9251b52811c/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+45            android:authorities="com.insantech.personalitytest.androidx-startup"
+45-->[androidx.emoji2:emoji2:1.3.0] /Users/santikaindra/.gradle/caches/8.9/transforms/d33267f643c71ff77015c9251b52811c/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+46            android:exported="false" >
+46-->[androidx.emoji2:emoji2:1.3.0] /Users/santikaindra/.gradle/caches/8.9/transforms/d33267f643c71ff77015c9251b52811c/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+47            <meta-data
+47-->[androidx.emoji2:emoji2:1.3.0] /Users/santikaindra/.gradle/caches/8.9/transforms/d33267f643c71ff77015c9251b52811c/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+48                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+48-->[androidx.emoji2:emoji2:1.3.0] /Users/santikaindra/.gradle/caches/8.9/transforms/d33267f643c71ff77015c9251b52811c/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+49                android:value="androidx.startup" />
+49-->[androidx.emoji2:emoji2:1.3.0] /Users/santikaindra/.gradle/caches/8.9/transforms/d33267f643c71ff77015c9251b52811c/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+50            <meta-data
+50-->[androidx.lifecycle:lifecycle-process:2.8.3] /Users/santikaindra/.gradle/caches/8.9/transforms/4b6e9f07623fb130524388a0c3d2f422/transformed/lifecycle-process-2.8.3/AndroidManifest.xml:29:13-31:52
+51                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+51-->[androidx.lifecycle:lifecycle-process:2.8.3] /Users/santikaindra/.gradle/caches/8.9/transforms/4b6e9f07623fb130524388a0c3d2f422/transformed/lifecycle-process-2.8.3/AndroidManifest.xml:30:17-78
+52                android:value="androidx.startup" />
+52-->[androidx.lifecycle:lifecycle-process:2.8.3] /Users/santikaindra/.gradle/caches/8.9/transforms/4b6e9f07623fb130524388a0c3d2f422/transformed/lifecycle-process-2.8.3/AndroidManifest.xml:31:17-49
+53            <meta-data
+53-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+54                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+54-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+55                android:value="androidx.startup" />
+55-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+56        </provider>
+57
+58        <receiver
+58-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+59            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+59-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+60            android:directBootAware="false"
+60-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+61            android:enabled="true"
+61-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+62            android:exported="true"
+62-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+63            android:permission="android.permission.DUMP" >
+63-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+64            <intent-filter>
+64-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+65                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+65-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+65-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+66            </intent-filter>
+67            <intent-filter>
+67-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+68                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+68-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+68-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+69            </intent-filter>
+70            <intent-filter>
+70-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+71                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+71-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+71-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+72            </intent-filter>
+73            <intent-filter>
+73-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+74                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+74-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+74-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/santikaindra/.gradle/caches/8.9/transforms/461023aaec506e25a59aa90dd03b5405/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+75            </intent-filter>
+76        </receiver>
+77    </application>
+78
+79</manifest>

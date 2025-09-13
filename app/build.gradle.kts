@@ -10,8 +10,8 @@ android {
     defaultConfig {
         applicationId = "com.insantech.personalitytest"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 1
+        targetSdk = 35
+        versionCode = 3
         versionName = "1.0.0"
     }
 

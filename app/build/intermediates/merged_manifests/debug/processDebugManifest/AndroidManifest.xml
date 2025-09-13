@@ -20,7 +20,6 @@
         android:extractNativeLibs="false"
         android:icon="@mipmap/ic_launcher"
         android:label="Persona"
-        android:testOnly="true"
         android:theme="@style/Theme.Material3.DayNight.NoActionBar" >
         <provider
             android:name="androidx.core.content.FileProvider"
