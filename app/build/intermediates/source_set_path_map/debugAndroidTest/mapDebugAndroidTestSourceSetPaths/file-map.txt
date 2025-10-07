@@ -1,0 +1,4 @@
+com.insantech.personalitytest.test.app-androidTest-0 /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/build/generated/res/resValues/androidTest/debug
+com.insantech.personalitytest.test.app-mergeDebugAndroidTestResources-1 /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.insantech.personalitytest.test.app-mergeDebugAndroidTestResources-2 /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.insantech.personalitytest.test.app-debugAndroidTest-3 /Users/santikaindra/AndroidStudioProjects/InsPersonalityTest/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
